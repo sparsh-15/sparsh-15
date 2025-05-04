@@ -30,7 +30,7 @@
 
 ```
 Java | JSP | Servlets | JDBC | MySQL | HTML | CSS | JavaScript | Bootstrap | AJAX  
-Git | GitHub | NetBeans | Eclipse | VS Code | Tomcat | Python (Basics) | Flask (Basics)
+Git | GitHub | NetBeans | Eclipse | VS Code | Tomcat | Python (Basics) 
 ```
 
 ---
@@ -40,7 +40,7 @@ Git | GitHub | NetBeans | Eclipse | VS Code | Tomcat | Python (Basics) | Flask (
 - 🔷 **EaseHealth** – Healthcare Appointment System  
   `Java EE + MySQL + JSP + Servlets`  
   Features: Role-based access, OTP Auth, Doctor Suggestion (WIP), Prescriptions  
-  🔗 [View Project](https://github.com/sparshsahu/easehealth)
+  🔗 [View Project](https://github.com/sparsh-15/EaseHealth)
 
 - 🛍️ **Full Stack Seller Product Portal**  
   Java Full Stack Ecommerce-like portal with Seller Login, Product Mgmt, and Email Auth  
@@ -60,17 +60,17 @@ Git | GitHub | NetBeans | Eclipse | VS Code | Tomcat | Python (Basics) | Flask (
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sparshsahu&theme=default" alt="streak"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=sparshsahu&show_icons=true&theme=default" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sparsh-15&theme=default" alt="streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sparsh-15&show_icons=true&theme=default" />
 </p>
 
 ---
 
 ## 📬 Let's Connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/sparshsahu)  
-- 💌 Email: sparshsahu.dev@gmail.com  
-- 🌐 Portfolio (Coming Soon): https://sparshsahu.in  
+- 💼 [LinkedIn](https://linkedin.com/in/sparsh-sahu-b934a6243)  
+- 💌 Email: sparshsahu8435@gmail.com  
+- 🌐 Portfolio :[sparsh-portfolio](https://sparsh-portfolio-sigma-fawn-15.vercel.app/) 
 
 ---
 
