@@ -1,82 +1,72 @@
+Hi, I'm Sparsh Sahu
 
-# 👋 Hi, I'm Sparsh Sahu
+Java Full Stack Developer | Cloud Enthusiast | Exploring AI
+Focused on building scalable, secure, and intelligent applications.
 
-🚀 Java Full Stack Developer | ☁️ Learning Cloud | 🧠 Exploring AI  
-*Building scalable, secure, and smart web applications*
+👨‍💻 About Me
 
-![Profile Views](https://komarev.com/ghpvc/?username=sparsh-15&label=Profile%20views&color=0e75b6&style=flat)
+B.Tech CSE (Pre-Final Year), India
 
+Backend Expertise: Java EE, Servlets, JSP, JDBC, SQL
 
----
+Frontend Skills: HTML5, CSS3, Bootstrap, JavaScript, AJAX
 
-## 👨‍💻 About Me
+Currently Learning: Spring Boot, Cloud Deployment (AWS, GitHub Actions)
 
-- 🎓 B.Tech CSE | Third Year | India 🇮🇳  
-- 💻 Core Tech: **Java EE, Servlets, JSP, JDBC, SQL**  
-- 🛠️ Frontend: **HTML5, CSS3, Bootstrap, JavaScript**  
-- ☁️ Currently Learning: **AWS Basics, Deployment Workflows**  
-- 🤖 Curious About AI: **Prompt Engineering, Flask APIs**  
-- 🔭 Goal: Merging **Full Stack** + **Cloud** + **AI** for Future-Proof Applications  
+Interest Areas: Cloud-native development, AI-powered applications, scalable architectures
 
----
+Vision: To merge Full Stack + Cloud + AI for building future-ready enterprise applications
 
-## 🚀 Current Focus
+🔎 Current Focus
 
-- 🔨 Developing my Healthcare Appointment System (EaseHealth)  
-- 🧠 Learning Cloud Deployment via AWS & GitHub Actions  
-- 💡 Exploring AI utilities (recommendation systems, sentiment analysis)  
-- 📈 Preparing for **backend** and **cloud-oriented** roles in 2025 placements  
+Developing EaseHealth – Healthcare Appointment System with role-based dashboards and digital prescription management
 
----
+Experimenting with AWS deployment workflows and CI/CD pipelines
 
-## 🧰 Tech Stack
+Researching AI integrations like recommendation systems and analytics modules
 
-```
-Java | JSP | Servlets | JDBC | MySQL | HTML | CSS | JavaScript | Bootstrap | AJAX  
-Git | GitHub | NetBeans | Eclipse | VS Code | Tomcat | Python (Basics) 
-```
+Preparing for backend and cloud-oriented roles for 2025 placements
 
----
+🧰 Tech Stack
+Languages: Java, JavaScript, SQL, Python (Basics)  
+Backend: Java EE, JSP, Servlets, JDBC, REST APIs  
+Frontend: HTML5, CSS3, Bootstrap, AJAX  
+Databases: MySQL  
+Tools: Git, GitHub, NetBeans, Eclipse, VS Code, Postman, Tomcat  
+Learning: Spring Boot, AWS, CI/CD, Docker, AI Utilities  
 
-## 🧩 Major Projects
+📌 Key Projects
 
-- 🔷 **EaseHealth** – Healthcare Appointment System  
-  `Java EE + MySQL + JSP + Servlets`  
-  Features: Role-based access, OTP Auth, Doctor Suggestion (WIP), Prescriptions  
-  🔗 [View Project](https://github.com/sparsh-15/EaseHealth)
+EaseHealth – Healthcare Appointment System
+Java EE + JSP + Servlets + MySQL
+➝ Role-based access (Doctor/Patient/Pharma)
+➝ OTP-based authentication & prescription management
+🔗 View Repository
 
-- 🛍️ **Full Stack Seller Product Portal**  
-  Java Full Stack Ecommerce-like portal with Seller Login, Product Mgmt, and Email Auth  
-  🔗 [View Project](https://github.com/sparshsahu/seller-portal)
+Full Stack Seller Product Portal
+Java EE + JDBC + JSP + JavaMail API
+➝ Seller login & product management system
+➝ Secure OTP-based authentication with email integration
+🔗 View Repository
 
----
+🎯 Learning Goals – 2025
 
-## 📚 Learning Goals for 2025
+Advance in Spring Boot & RESTful Services
 
-- 🌐 Master **Spring Boot & REST APIs**  
-- ☁️ Learn **Cloud Deployment (AWS, GitHub Actions)**  
-- 🤝 Collaborate on **Open Source & Hackathons**  
-- 🧠 Build AI-enhanced services & mock interview tools  
+Master Cloud Deployment (AWS, Docker, GitHub Actions)
 
----
+Contribute to Open Source Projects & Hackathons
 
-## 📈 GitHub Stats
+Build AI-driven features into real-world systems
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sparsh-15&theme=default" alt="streak"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=sparsh-15&show_icons=true&theme=default" />
-</p>
+📊 GitHub Insights
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sparsh-15&show_icons=true&theme=default" height="160" /> <img src="https://github-readme-streak-stats.herokuapp.com?user=sparsh-15&theme=default" height="160" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sparsh-15&layout=compact&theme=default" height="160" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=sparsh-15&theme=github-compact" alt="Contribution Graph" /> </p>
+📬 Connect With Me
 
----
+LinkedIn
 
-## 📬 Let's Connect
+Email: sparshsahu8435@gmail.com
 
-- 💼 [LinkedIn](https://linkedin.com/in/sparsh-sahu-b934a6243)  
-- 💌 Email: sparshsahu8435@gmail.com  
-- 🌐 Portfolio :[sparsh-portfolio](https://sparsh-portfolio-sigma-fawn-15.vercel.app/) 
+Portfolio: sparsh-portfolio
 
----
-
-<p align="center">
-  <i>"Code for Impact. Build for the Future."</i> ⚡
-</p>
+<p align="center"><i>"Code for impact. Build for the future."</i></p>
