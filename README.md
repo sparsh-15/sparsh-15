@@ -1,72 +1,53 @@
 Hi, I'm Sparsh Sahu
 
-Java Full Stack Developer | Cloud Enthusiast | Exploring AI
-Focused on building scalable, secure, and intelligent applications.
+Java Full Stack Developer | MERN Enthusiast | Cloud Learner | Exploring AI
 
 👨‍💻 About Me
 
-B.Tech CSE (Pre-Final Year), India
+B.Tech CSE (India) | Pre-Final Year
 
-Backend Expertise: Java EE, Servlets, JSP, JDBC, SQL
+Core Expertise: Java EE (J2EE), Servlets, JSP, JDBC, MySQL
 
-Frontend Skills: HTML5, CSS3, Bootstrap, JavaScript, AJAX
+Backend Frameworks: Spring Boot, REST APIs, Express.js
 
-Currently Learning: Spring Boot, Cloud Deployment (AWS, GitHub Actions)
+Frontend: React.js, HTML, CSS, JavaScript, Bootstrap
 
-Interest Areas: Cloud-native development, AI-powered applications, scalable architectures
+Full Stack: MERN Stack + Java Full Stack
 
-Vision: To merge Full Stack + Cloud + AI for building future-ready enterprise applications
-
-🔎 Current Focus
-
-Developing EaseHealth – Healthcare Appointment System with role-based dashboards and digital prescription management
-
-Experimenting with AWS deployment workflows and CI/CD pipelines
-
-Researching AI integrations like recommendation systems and analytics modules
-
-Preparing for backend and cloud-oriented roles for 2025 placements
-
-🧰 Tech Stack
-Languages: Java, JavaScript, SQL, Python (Basics)  
-Backend: Java EE, JSP, Servlets, JDBC, REST APIs  
-Frontend: HTML5, CSS3, Bootstrap, AJAX  
-Databases: MySQL  
-Tools: Git, GitHub, NetBeans, Eclipse, VS Code, Postman, Tomcat  
-Learning: Spring Boot, AWS, CI/CD, Docker, AI Utilities  
+Currently Exploring: AWS, CI/CD Pipelines, AI Integrations
 
 📌 Key Projects
 
 EaseHealth – Healthcare Appointment System
-Java EE + JSP + Servlets + MySQL
-➝ Role-based access (Doctor/Patient/Pharma)
-➝ OTP-based authentication & prescription management
-🔗 View Repository
+Role-based dashboards, OTP authentication, digital prescriptions
+🔗 Repo
 
-Full Stack Seller Product Portal
-Java EE + JDBC + JSP + JavaMail API
-➝ Seller login & product management system
-➝ Secure OTP-based authentication with email integration
-🔗 View Repository
+Seller Product Portal
+Seller login, product management, email-based authentication
+🔗 Repo
 
-🎯 Learning Goals – 2025
+🧰 Tech Stack
 
-Advance in Spring Boot & RESTful Services
+Languages & Core
+Java | Java EE (J2EE) | Python (Basics) | JavaScript
 
-Master Cloud Deployment (AWS, Docker, GitHub Actions)
+Frameworks & Tools
+Spring Boot | React.js | Node.js | Express.js | MERN Stack
 
-Contribute to Open Source Projects & Hackathons
+Database
+MySQL | MongoDB
 
-Build AI-driven features into real-world systems
+Other Tools
+Git | GitHub | Tomcat | Postman | AWS (Learning)
 
-📊 GitHub Insights
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sparsh-15&show_icons=true&theme=default" height="160" /> <img src="https://github-readme-streak-stats.herokuapp.com?user=sparsh-15&theme=default" height="160" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sparsh-15&layout=compact&theme=default" height="160" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=sparsh-15&theme=github-compact" alt="Contribution Graph" /> </p>
-📬 Connect With Me
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sparsh-15&show_icons=true&theme=default" height="150" /> <img src="https://github-readme-streak-stats.herokuapp.com?user=sparsh-15&theme=default" height="150" /> </p>
+📬 Connect
 
 LinkedIn
 
-Email: sparshsahu8435@gmail.com
+Portfolio
 
-Portfolio: sparsh-portfolio
+Email: sparshsahu8435@gmail.com
 
 <p align="center"><i>"Code for impact. Build for the future."</i></p>
