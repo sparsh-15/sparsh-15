@@ -45,7 +45,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sparsh-15&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sparsh-15&theme=tokyonight" height="150" />
+<img src="https://streak-stats.demolab.com?user=sparsh-15&theme=tokyonight" height="150" />
 </p>
 
 ---
